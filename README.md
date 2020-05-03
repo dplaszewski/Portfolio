@@ -25,7 +25,7 @@ Hello, my name is Dariusz Płaszewski. I am master of electrical engineering wit
 * GitHub
 
 ## Courses
-Coders Lab - Manual Tester (www.coderslab.pl)
+[Coders Lab - Manual Tester](www.coderslab.pl)
 
 ## Books
 Radosław Smilgin - "Zawód Tester" 
@@ -33,7 +33,7 @@ Radosław Smilgin - "Zawód Tester"
 ## Blogs
 * [Testerzy.pl](www.testerzy.pl)
 * [Testuj.pl](www.testuj.pl)
-* [pwicherski.gitbook.io] (www.pwicherski.gitbook.io)
+* [pwicherski.gitbook.io](http://pwicherski.gitbook.io)
 
 ## Webinars, meetups
 WarszawQA
