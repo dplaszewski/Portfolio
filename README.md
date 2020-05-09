@@ -35,7 +35,7 @@ Radosław Smilgin - "Zawód Tester"
 * [Testerzy.pl](http://www.testerzy.pl)
 * [Testuj.pl](http://www.testuj.pl)
 * [pwicherski.gitbook.io](http://pwicherski.gitbook.io)
-* [https://remigiuszbednarczyk.pl/] (https://remigiuszbednarczyk.pl/)
+* [https://remigiuszbednarczyk.pl/](https://remigiuszbednarczyk.pl/)
 
 ## Webinars, meetups
 WarszawQA
