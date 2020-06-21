@@ -45,4 +45,4 @@ WarszawQA
 * Szkoła Testera - testing practice
 
 ## My projects
-Under development
+* Kia Poland - functional testing of the Polish website of Kia car manufacturer
