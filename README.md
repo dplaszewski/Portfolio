@@ -8,6 +8,7 @@ Hello, my name is Dariusz Płaszewski. I am master of electrical engineering wit
 * Jira - Issue tracking tool
 * Testlink - Issue tracking tool
 * TestCollab - Issue tracking tool
+* Confluence - Software for collaboration
 * SOAP UI - Tool for testing webservices using SOAP protocol
 * Postman - Tool for testing webservices using REST API
 * Git - Tool for SVN management
@@ -41,7 +42,7 @@ Radosław Smilgin - "Zawód Tester"
 WarszawQA
 
 ## Participation in projects
-* Codematic Systems Ltd.: Warfield mobile game tests - mid tester
+* Codematic Systems Ltd.: Warfield mobile game tests - senior tester
 * Szkoła Testera - testing practice
 
 ## My projects
