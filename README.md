@@ -24,6 +24,8 @@ Hello, my name is Dariusz Płaszewski. I am master of electrical engineering wit
 * SQL
 * SCRUM
 * GitHub
+* XML syntax basics
+* JSON syntax basics
 
 ## Courses
 * [Coders Lab - Manual Tester](http://www.coderslab.pl)
@@ -44,6 +46,7 @@ WarszawQA
 ## Participation in projects
 * Codematic Systems Ltd.: Warfield mobile game tests - senior tester
 * Szkoła Testera - testing practice
+* Testbirds - completed entry project "Ben&Jerry's uk website" testing project
 
 ## My projects
 * Kia Poland - functional testing of the Polish website of Kia car manufacturer
