@@ -11,6 +11,7 @@ Hello, my name is Dariusz Płaszewski. I am master of electrical engineering wit
 * Confluence - Software for collaboration
 * SOAP UI - Tool for testing webservices using SOAP protocol
 * Postman - Tool for testing webservices using REST API
+* Linux - Basic knowledge about working with Linux console
 * Git - Tool for SVN management
 * Trello - Project management tool
 * Miro - Online collaboration tool
