@@ -27,6 +27,7 @@ Hello, my name is Dariusz Płaszewski. I am master of electrical engineering wit
 * GitHub
 * XML syntax basics
 * JSON syntax basics
+* Linux
 
 ## Courses
 * [Coders Lab - Manual Tester](http://www.coderslab.pl)
