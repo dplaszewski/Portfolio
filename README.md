@@ -48,6 +48,8 @@ WarszawQA
 * Codematic Systems Ltd.: Warfield mobile game tests - senior tester
 * Szkoła Testera - testing practice
 * Testbirds - completed entry project "Ben&Jerry's uk website" testing project
+* Testbirds - exploratory testing of an Online shop of a well known brand
+* Testing practice with an experienced tester
 
 ## My projects
 * Kia Poland - functional testing of the Polish website of Kia car manufacturer
