@@ -51,7 +51,7 @@ WarszawQA
 * Testbirds - completed entry project "Ben&Jerry's uk website" testing project
 * Testbirds - exploratory testing of an Online shop of a well known brand
 * Testing practice with an experienced tester
-* ## PickEatUP - testing of a mobile software dedicated to stop wasting food in restaurants
+* # PickEatUP - testing of a mobile software dedicated to stop wasting food in restaurants
 
 ## My projects
 * Kia Poland - functional testing of the Polish website of Kia car manufacturer
