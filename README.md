@@ -2,16 +2,26 @@
 My Tester's portfolio
 
 ## About me
-Hello, my name is Dariusz Płaszewski. I am master of electrical engineering with a specialization in lighting technology. Since childhood I have been interested in information technology. Recently I became interested in software testing. My target for the nearest future is to expand my knowledge and experience in the field of software testing and in the further future I would like to start working with automated testing.
+Hello, my name is Dariusz Płaszewski. I am a software tester with a specialization in PKI and digital signature technology. I am constantly expanding my knowledge and my target for the future is to work as a software securiy tester.
+
+## Certificates
+* ISTQB Foundation Level
+* ISTQB Advanced Level Test Manager
 
 ## Tools
 * Jira - Issue tracking tool
 * Testlink - Issue tracking tool
-* TestCollab - Issue tracking tool
-* Confluence - Software for collaboration
+* Testrail - Issue tracking tool
+* Confluence - Tool for collaboration
+* Burp Suite - Tool for security testing
+* OWASP ZAP - Tool for security testing
+* SQLMAP - Automatic SQL injection tool
+* Docker - Configuring and running software packaged in containers
+* Docker-compose - Configuring and running multi-container Docker applications
 * SOAP UI - Tool for testing webservices using SOAP protocol
 * Postman - Tool for testing webservices using REST API
-* Linux - Basic knowledge about working with Linux console
+* Linux - Basic knowledge about working with Linux terminal
+* macOS - Knowledge about working with macOS and terminal
 * Git - Tool for SVN management
 * Trello - Project management tool
 * Miro - Online collaboration tool
@@ -22,6 +32,7 @@ Hello, my name is Dariusz Płaszewski. I am master of electrical engineering wit
 * Creating test reports
 * Submitting bugs in dedicated test tools
 * Software testing
+* Creating and managing software documentation
 * SQL
 * SCRUM
 * GitHub
@@ -52,6 +63,3 @@ WarszawQA
 * Testbirds - exploratory testing of an Online shop of a well known brand
 * Testing practice with an experienced tester
 * **PickEatUP - testing of a mobile software dedicated to stop wasting food in restaurants (https://pickeatup.io/)**
-
-## My projects
-* Kia Poland - functional testing of the Polish website of Kia car manufacturer
